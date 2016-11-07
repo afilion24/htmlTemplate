@@ -1,0 +1,17 @@
+{
+  "name": "htmltemplate",
+  "description": "Шаблон для верстки",
+  "main": "index.js",
+  "authors": [
+    "Anton Sobolevskiy <afilion24@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/afilion24/htmlTemplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
