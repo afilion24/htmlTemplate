@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/afilion24/htmlTemplate/issues"
   },
-  "homepage": "https://github.com/afilion24/htmlTemplate#readme"
+  "homepage": "https://github.com/afilion24/htmlTemplate#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "browser-sync": "^2.17.5",
+    "del": "^2.2.2",
+    "foundation-sites": "^6.2.4",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^2.2.0"
+  }
 }
